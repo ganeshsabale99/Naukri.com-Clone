@@ -1,8 +1,8 @@
 
 
-# vercel Link:- https://naukri-clone-steel.vercel.app/
+ vercel Link:- https://naukri-clone-steel.vercel.app/
 
-# Netlify Link:- https://cerulean-custard-252dcb.netlify.app/
+ Netlify Link:- https://cerulean-custard-252dcb.netlify.app/
 
 # Getting Started with Create React App
 
